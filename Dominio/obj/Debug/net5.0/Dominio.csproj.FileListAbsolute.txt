@@ -1,0 +1,15 @@
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.pdb
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\Entidades.dll
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\bin\Debug\net5.0\Entidades.pdb
+D:\ProjetosC#\ApiNoticias\API_DDD_NOTICIA\Dominio\obj\Debug\net5.0\Dominio.csproj.CopyComplete
